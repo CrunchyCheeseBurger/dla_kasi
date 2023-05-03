@@ -148,7 +148,7 @@ body {
           clip-path: circle(120vmax at 30vw 50%);
 }
 .slide:nth-child(1) .slide__inner {
-  background-image: url("./zdjecia/1.jpg");
+  background-image: url("https://previews.dropbox.com/p/thumb/AB76QKeENxYmkI_ya3MzUy1hp-Z4RDWEtAO0YIZM_fwXzTGO4dQbgFYZAZu8M99U_SOQTuxffgCtvAVxLQms72tzyZySLbQ7dZLyPQ-EhmYOu4cTz2VTYCV-AzgejL9v8TZ2oJ0LMcnf3lM8OXRsFb_wfPDZsai-Hr4WPYsFl2KExnxjAIUx1DXpT37ANFMPo28B_qDMgz3WnjK3BM0ZmfG2CqymPP4hJoxP51HMp7Dh9X5yYQeOBgrZwD44LwjG2llpQ7y0XfaKBZK3YHxnPW65IpL1TFx2fvFmTOcCeQdbqInGYDDEwhWQV5ZZS3GrTojxoQ1kiAk0gF4RFKyXbpkkQ2SQpIBNCp0u2MlE7uHwxv-I93IGK2EPMccJgSiJq90/p.jpeg");
 }
 .slide:nth-child(2) .slide__inner {
   background-image: url("./zdjecia/2.jpg");
